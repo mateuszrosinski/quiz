@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Jaką Simona najbardziej lubi czekoladę?",
+    "answers": ["Magnetic", "Wedel", "Goplana", "Milka"],
+    "correct": 2
+  },
+  {
+    "question": "Ulubiony kolor Simony?",
+    "answers": ["seledynowy", "kremowy", "fioletowy", "biały"],
+    "correct": 4
+  },
+  {
+    "question": "Ulubione danie Simony?",
+    "answers": ["🙂😉", "Rolada po śląsku", "pizza", "ciasto"],
+    "correct": 1
+  },
+  {
+    "question": "Ulubione warzywo Simony?",
+    "answers": ["Ogór", "Marchewka", "Bakłażan", "Banan"],
+    "correct": 3
+  },
+  {
+    "question": "Ile Simona miała chłopaków?",
+    "answers": ["3", "4", "5", "9"],
+    "correct": 1
+  },
+  {
+    "question": "Jaki był jej wymarzony zawód jak była dzieckiem?",
+    "answers": ["kominiarz", "pielęgniarka", "sekretarka", "tancerka"],
+    "correct": 2
+  },
+  {
+    "question": "Ulubiony rodzaj seksu?",
+    "answers": [
+      "Oralny",
+      "Klasyczny",
+      "BDSM DOMINA dojeżdza partnera straponem",
+      "Analny z zaskoczenia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Wymarzona miejsce na oświadczyny?",
+    "answers": [
+      "Szklarnia",
+      "Wenecja",
+      "Specjalistyczny Szpital im. Ks. Biskupa Józefa Bratana w Branicach",
+      "Arena Gliwice mecz drużyny hokejowej KKS Kolejarz Gliwice"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Najdłuższy stosunek Simony?",
+    "answers": ["5minut", "90 minut", "86 minut", "112 minut"],
+    "correct": 3
+  },
+  {
+    "question": "Jak lubi się rozpieszczać?",
+    "answers": [
+      "wspólny wieczór z ukochanym",
+      "krzyżówki lub sudoku",
+      "papieros, piwo ewentualnie wino",
+      "rozmowa przez telefon"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Co najbardziej Simona lubi w Piotrku?",
+    "answers": [
+      "Szczery uśmiech",
+      "Sylwetka w kształcie litery V",
+      "🍆",
+      "Jego charyzmę"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Czy Simona ma zwierzęta?",
+    "answers": [
+      "nie ma",
+      "ma",
+      "ma, ale chce mieć",
+      "mieszka ze zwierzakiem 😉"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "Ulubiony sport Simony?",
+    "answers": ["wędkowanie", "wycieczki", "zakupy", "picie piwa na czas"],
+    "correct": 2
+  },
+  {
+    "question": "Gdzie poznała swojego wybranka?",
+    "answers": [
+      "W kościele",
+      "w rossmanie przy stoisku z minoxidilem😌",
+      "tinder, badoo, inne seks aplikacje",
+      "przez koleżanke na ploteczkach"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Ulubiony sposób spędznia weekendu?",
+    "answers": [
+      "spotkanie z przyjaciółkami",
+      "czas dla rodziny",
+      "relaks w jacuzzi",
+      "spacery i nie tylko z najdroższym"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "W kim podkochiwała się jak była młoda?",
+    "answers": ["50 Cent", "Dr. Dre", "Bogusław Linda", "Cezary Pazura"],
+    "correct": 3
+  },
+  {
+    "question": "Ulubiona muzyka Simony?",
+    "answers": ["Tede", "inne", "Lana Del Ray", "Golec Ourkiestra"],
+    "correct": 2
+  },
+  {
+    "question": "Perfumy które uwielbia?",
+    "answers": [
+      "Calvin Klein",
+      "Hugo Boss",
+      "BadBoy",
+      "uwielbia zapach swojego mężczyzny"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Co najbardziej imponuje Simonie?",
+    "answers": [
+      "walka z łysieniem",
+      "krótki sex",
+      "Budda z YouTube",
+      "długi sen"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "Czy grzybica u partnera ją pociąga?",
+    "answers": [
+      "raczej nie",
+      "zdecydowanie nie(chyba że bogaty)",
+      "trochę tak",
+      "pociąga bardzo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Skąd jest Simona?",
+    "answers": ["wędkowanie", "wycieczki", "zakupy", "picie piwa na czas"],
+    "correct": 2
+  },
+  {
+    "question": "Skąd jest Simona?",
+    "answers": ["Bilczyce", "Bilszczyce", "Bliszczyce", "Biczyce"],
+    "correct": 2
+  }
+]
