@@ -12,9 +12,7 @@ const Summary = ({ score, totalQuestions }) => {
   return (
     <div className="summary-container">
       <h2>Podsumowanie</h2>
-      <p>
-        Zdobyłeś {randomNumber} punktów z {totalQuestions} pytań.
-      </p>
+      <p>Zdobyłeś {randomNumber} punktów z 30 pytań.</p>
     </div>
   );
 };
