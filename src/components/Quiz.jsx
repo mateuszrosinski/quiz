@@ -76,13 +76,16 @@ const styles = {
     padding: "10px",
     margin: "5px 0",
     backgroundColor: "#D3D3D3",
-    color: "white",
+    color: "black",
     border: "none",
     borderRadius: "5px",
     cursor: "pointer",
   },
   selectedButton: {
     backgroundColor: "#28a745",
+  },
+  h2: {
+    color: "#FFC0CB",
   },
 };
 

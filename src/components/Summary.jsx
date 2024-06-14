@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 const Summary = ({ score, totalQuestions }) => {
   const [randomNumber, setRandomNumber] = useState(null);
   console.log(score);
+  console.log(totalQuestions);
   useEffect(() => {
     const generateRandomNumber = () => Math.floor(Math.random() * 20);
     setRandomNumber(generateRandomNumber());

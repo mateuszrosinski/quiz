@@ -153,5 +153,20 @@
     "question": "Skąd jest Simona?",
     "answers": ["Bilczyce", "Bilszczyce", "Bliszczyce", "Biczyce"],
     "correct": 2
+  },
+  {
+    "question": "Czy ma rodzeństwo?",
+    "answers": [
+      "nie ma",
+      "nie ma, ale będzie miała",
+      "jej facet jest dla niej jak brat",
+      "ma siostrę"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "Gdzie Simona najbardziej lubi przebywać z Piotrem?",
+    "answers": ["garaż", "ostry dyżur", "kemping", "obojętnie"],
+    "correct": 4
   }
 ]
